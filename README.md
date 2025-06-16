@@ -1,4 +1,4 @@
-# Unified Registry Tool
+# Registry Utility
 
 A comprehensive Python application with a modern graphical interface that combines registry comparison and backup generation functionalities for Windows `.reg` files.
 
