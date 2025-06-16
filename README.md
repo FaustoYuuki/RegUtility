@@ -38,6 +38,13 @@ The application features a tabbed interface with two main sections:
 - **Progress Tracking**: Real-time status updates
 - **Success Confirmation**: Clear feedback on completion
 
+## 📸 Screenshot
+
+![image](https://github.com/user-attachments/assets/09836ca5-181f-4d8c-bbc2-bfafc0d0760a)
+![image](https://github.com/user-attachments/assets/111e5550-a39c-410a-802c-fd7991780135)
+
+
+
 ## 🚀 How to Use
 
 ### Registry Comparison
