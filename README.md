@@ -110,7 +110,7 @@ pip install PyQt6
 
 ## 👨‍💻 Developed by
 
-yuuki_0711
+Discord: yuuki_0711
 
 ## 📄 License
 
