@@ -69,14 +69,6 @@ The application features a tabbed interface with two main sections:
 ## 🛠️ Requirements
 
 - Windows (for registry access)
-- Python 3.7+
-- PyQt6
-
-## 📦 Installation
-
-```bash
-pip install PyQt6
-```
 
 ## 🎨 Visual Characteristics
 
